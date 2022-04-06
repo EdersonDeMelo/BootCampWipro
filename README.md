@@ -5,7 +5,6 @@
 ## Descrição:
   <h2>Resolução do exercicio Carrinho de Compras, onde  </b>é efetuada a compra de produtos, os mesmos serão baixados do estoque, e no final
   </b> apresentará nota fiscal e desconto/acrescimos conforme descrito.</h2>
-O projeto efetua a simulação de processo de compra de produtos e é executado no console.
 
 ## Requisitos:
 A nossa loja deve conter estoque
