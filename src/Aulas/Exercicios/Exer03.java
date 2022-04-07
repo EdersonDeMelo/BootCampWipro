@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.Exercicios;
 
 import java.util.HashMap;
 import java.util.List;

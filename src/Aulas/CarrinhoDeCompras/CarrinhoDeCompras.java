@@ -1,4 +1,4 @@
-package Aulas;
+package Aulas.CarrinhoDeCompras;
 
 import java.util.Scanner;
 
